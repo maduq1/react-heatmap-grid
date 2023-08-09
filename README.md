@@ -19,13 +19,13 @@ A React component for heatmap in grid layout using `div`.
 ## Installation
 
 ```
-yarn add react-heatmap-grid
+yarn add react-heatmap-grid-react17
 ```
 
 or
 
 ```
-npm install react-heatmap-grid --save
+npm install react-heatmap-grid-react17 --save
 ```
 
 ## Usage
