@@ -1,6 +1,6 @@
 {
   "name": "react-heatmap-grid-react17",
-  "version": "0.8.4",
+  "version": "0.8.5",
   "description": "Fork of React component for heatmap on grid layout",
   "main": "dist/bundle.js",
   "scripts": {
